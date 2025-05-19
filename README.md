@@ -1,40 +1,113 @@
-# 📥 DropLoad: Descargador de Videos y Audios de YouTube
+<h1 align="center">🚀 Mi Portafolio en GitHub</h1>
+<p align="center">Desarrollador web | Proyectos creativos | En formación constante</p>
 
-**DropLoad** es una aplicación moderna para Windows que te permite descargar videos y audios de YouTube fácilmente, con opciones de calidad y formato, todo desde una interfaz limpia y sencilla.
-
----
-
-## 🚀 ¿Qué hace DropLoad?
-
-DropLoad permite descargar contenido de YouTube en:
-
-- 🎥 **Video completo** en formato `.mp4`
-- 🎵 **Solo audio** en formato `.mp3`
-
-Con selección de calidad (1080p, 720p, 480p, etc.) y progreso de descarga en tiempo real.
+<br><br>
 
 ---
 
-## 🔧 Características de DropLoad
+## 💻 Programas  
+Aplicaciones de escritorio desarrolladas principalmente con python con enfoque práctico.
 
-- **Interfaz intuitiva** y moderna
-- **Progreso en tiempo real** (porcentaje, tamaño, velocidad, duración)
-- **Conversión automática a MP3** usando ffmpeg
-- **Descargas directas a la carpeta de Descargas**
-- **Modo claro, oscuro o del sistema**
+<details>
+  <summary><strong>Ver proyectos</strong></summary>
+
+  <br>
+
+| Sitio | Descripción |
+|-------|-------------|
+| [CleanRush](https://github.com/Mayonesa7272/CleanRush) | Una herramienta ligera para Windows que elimina archivos temporales y libera espacio en disco de forma rápida y segura. |
+| [DropLoad](https://github.com/Mayonesa7272/DropLoad) | Una herramienta que descarga videos y audio desde YouTube en formatos MP4 y MP3, con interfaz moderna. |
+
+</details>
+
+<br><br>
 
 ---
 
-## ⚙️ Requisitos
+## 🌐 Páginas Web  
+Páginas variadas que van desde portafolios personales hasta tiendas online y sitios con datos en tiempo real.
 
-No necesitas tener Python instalado.
+<details>
+  <summary><strong>🌐 Ver páginas</strong></summary>
+  
+### 📥 Descarga de archivos
 
-La aplicación se ejecuta como `.exe`, ya empaquetada para funcionar de forma independiente.
+| Sitio | Descripción |
+|-------|-------------|
+| [Idope](https://idope.se/) | Buscador de torrents minimalista y sin publicidad molesta. |
+| [Nyaa](https://nyaa.si/) | Especializado en contenido asiático como anime y manga. |
+| [Internet Archive](https://archive.org/) | Biblioteca digital con libros, películas, música y software antiguo. |
+
+### 📹 Descargar Videos
+
+| Sitio | Descripción |
+|-------|-------------|
+| [x2mate](https://x2mate.com/es/home) | Descarga videos de YouTube en distintos formatos de forma rápida y sencilla. |
+| [Cobalt](https://cobalt.tools/) | Plataforma con múltiples herramientas online para descargas y utilidades sociales. |
+| [Zeemo](https://zeemo.ai/es/tools/youtube-video-downloader) | Descargador de videos de YouTube con funciones extra como subtítulos automáticos. |
+| [sssInstagram](https://sssinstagram.com/es) | Descarga contenido de Instagram como fotos, videos o reels sin necesidad de cuenta. |
+
+### 🛒 Páginas de ofertas de juegos
+
+| Sitio | Descripción |
+|-------|-------------|
+| [AllKeyShop](https://www.allkeyshop.com/blog/) | Comparador de precios para juegos digitales en múltiples plataformas y tiendas. |
+| [Gamerpower](https://www.gamerpower.com/) | Portal que recopila giveaways, juegos gratis y promociones especiales para gamers. |
+
+### 🎮 Juegos "de bajo costo"
+
+| Sitio | Descripción |
+|-------|-------------|
+| [Gamesfull](https://gamesfull.app/) | Portal para descargar juegos de PC organizados por categorías, de forma accesible. |
+| [Steamrip](https://steamrip.com/) | Sitio con versiones de juegos de Steam disponibles "de bajo costo". |
+| [Steamunlocked](https://steamunlocked.net/) | Biblioteca de juegos "de bajo costo" listos para descargar y jugar. Recomendado solo para juegos pequeños debido a la velocidad limitada de descarga en los servidores. |
+| [Pivigames](https://pivigames.blog/) | Blog con títulos populares para PC enfocados en distribución sencilla y económica. |
+
+</details>
+
+<br><br>
 
 ---
 
-## ⏳ Nota importante sobre la primera ejecución
+## 🧩 Extensiones de Google Chrome  
+Herramientas que potencian la productividad y mejoran la experiencia de navegación.
 
-En la primera ejecución (o cuando haya una nueva versión disponible), DropLoad descargará automáticamente **ffmpeg** desde internet para permitir la conversión de audio.  
-Este proceso puede tardar unos segundos, pero **solo se realiza una vez**.  
-Después, las siguientes ejecuciones serán mucho más rápidas.
+<details>
+  <summary><strong>🧩 Ver extensiones</strong></summary>
+
+| Extensión | Descripción |
+|----------|-------------|
+| [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Bloqueador de anuncios eficiente y ligero. |
+| [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) | Habilita modo oscuro en todos los sitios web. |
+| [SponsorBlock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) | Salta automáticamente segmentos patrocinados en videos de YouTube. |
+| [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | Gestor de contraseñas gratuito y seguro. |
+
+</details>
+
+<br><br>
+
+---
+
+## 🛠️ Aplicaciones Útiles  
+Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpio y organizado.
+
+<details>
+  <summary><strong>🛠️ Ver aplicaciones</strong></summary>
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [ShareX](https://getsharex.com/) | Captura de pantalla y grabación de video con herramientas avanzadas. |
+| [Everything](https://www.voidtools.com/) | Búsqueda instantánea de archivos en tu sistema Windows. |
+| [BleachBit](https://www.bleachbit.org/) | Limpiador de archivos temporales y basura, alternativa a CCleaner. |
+| [AutoHotkey](https://www.autohotkey.com/) | Automatiza tareas repetitivas con scripts personalizados. |
+
+</details>
+
+<br><br>
+
+
+<p align="center">
+  <img src="https://github.com/Mayonesa7272/Principal/blob/4e88cd53b4b455868e62b7585c2e703674003102/Source/cooltext471920183441659.png" />
+</p>
+
+<p align="center">Gracias por visitar mi perfil 🙌</p>
