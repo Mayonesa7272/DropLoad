@@ -23,6 +23,8 @@ El progreso de cada descarga es visible en tiempo real, proporcionando informaci
 
 Al ser un archivo ejecutable (`.exe`), DropLoad elimina la barrera de la instalación de entornos de desarrollo o librerías, funcionando de forma autónoma en la mayoría de PCs con Windows. Esto la convierte en una herramienta accesible y rápida de desplegar.
 
+💡 *Nota: Durante la primera ejecución o cuando se detecte una nueva versión de ffmpeg, el programa descargará automáticamente la herramienta. Esto puede tardar unos segundos, pero solo ocurre una vez. Las ejecuciones siguientes serán más rápidas. (Trabajando en soluciones)*
+
 ## 🛠️ Instalación
 
 1. Descarga el archivo `DropLoad.exe` desde la sección de lanzamientos.
