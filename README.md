@@ -63,9 +63,23 @@ Páginas variadas que van desde portafolios personales hasta tiendas online y si
 | [Steamunlocked](https://steamunlocked.net/) | Biblioteca de juegos "de bajo costo" listos para descargar y jugar. Recomendado solo para juegos pequeños debido a la velocidad limitada de descarga en los servidores. |
 | [Pivigames](https://pivigames.blog/) | Blog con títulos populares para PC enfocados en distribución sencilla y económica. |
 
+### 🖼️ Herramientas de edición online
+
+| Sitio | Descripción |
+|-------|-------------|
+| [BgSub](https://bgsub.com/) | Elimina fondos de imágenes automáticamente usando IA. |
+| [ConvertICO](https://convertico.com/es/#google_vignette) | Convierte imágenes PNG en iconos .ICO compatibles con Windows. |
+| [Slidesgo](https://slidesgo.com/es/) | Plantillas gratuitas de presentaciones para Google Slides y PowerPoint. |
+| [Mayúsculas y minúsculas](https://mayusculasminusculas.com/) | Convierte texto entre mayúsculas, minúsculas, tipo oración y más. |
+| [Adobe Podcast](https://podcast.adobe.com/) | Plataforma de edición de voz online con IA para mejorar calidad de audio. |
+| [Remove.bg](https://www.remove.bg/es) | Elimina el fondo de imágenes en segundos. Ideal para fotografía y diseño. |
+| [Pixabay](https://pixabay.com/es/) | Banco de imágenes, videos y vectores gratuitos de alta calidad. |
+| [ImgUpscaler](https://es.imgupscaler.com/) | Aumenta la resolución de imágenes con inteligencia artificial. |
+
 </details>
 
 <br><br>
+
 
 ---
 
