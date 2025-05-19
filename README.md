@@ -98,10 +98,12 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 |-----------|-------------|
 | [Volume Master](https://chrome.google.com/webstore/detail/volume-master/aoipfcnfkhfapfegfobpefhkkgfgmdid) | Controla el volumen de cada pestaña de forma independiente. |
 | [Guardar Imagen Como JPG/PNG](https://chromewebstore.google.com/detail/guardar-imagen-como-jpgpn/gabfmnliflodkdafenbcpjdlppllnemd?hl=es) | Permite guardar imágenes directamente como JPG o PNG desde el navegador. |
+| [Leeting Notes](https://chrome.google.com/webstore/detail/leeting-notes/ejmghbfhepfkpgpialnhmffnblgfmoha) | Herramienta ligera para tomar notas rápidas y organizarlas fácilmente dentro del navegador. |
 
 </details>
 
 <br><br>
+
 
 
 ---
