@@ -75,18 +75,37 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 <details>
   <summary><strong>🧩 Ver extensiones</strong></summary>
 
+### 🔐 Seguridad y privacidad
+
 | Extensión | Descripción |
-|----------|-------------|
-| [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Bloqueador de anuncios eficiente y ligero. |
-| [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) | Habilita modo oscuro en todos los sitios web. |
-| [SponsorBlock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) | Salta automáticamente segmentos patrocinados en videos de YouTube. |
+|-----------|-------------|
 | [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | Gestor de contraseñas gratuito y seguro. |
+| [Mailvelope](https://chrome.google.com/webstore/detail/mailvelope/jgeocpdpefagabodindgpfimhfcccddo) | Extensión para cifrar y descifrar correos electrónicos usando PGP directamente en tu navegador. |
+| [Temp Mail (Desechable Email)](https://chromewebstore.google.com/detail/temp-mail-desechable-emai/inojafojbhdpnehkhhfjalgjjobnhomj?hl=es) | Crea direcciones de correo temporales para proteger tu privacidad y evitar spam. |
+| [Todavía No Me Importan Las Cookies](https://chromewebstore.google.com/detail/todav%C3%ADa-no-me-importan-la/edibdbjcniadpccecjdfdjjppcpchdlm?hl=es) | Gestiona avisos de cookies automáticamente para evitar interrupciones al navegar. |
+| [Browser Lock](https://chrome.google.com/webstore/detail/browser-lock/nhpjbfekocmfnfpkeocgdlppndgpbico) | Bloquea el navegador para proteger tu privacidad cuando te alejas del equipo. |
+
+### 🚫 Bloqueadores de anuncios
+
+| Extensión | Descripción |
+|-----------|-------------|
+| [Adblocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=es) | Bloqueador de anuncios eficaz que mejora la experiencia de navegación sin rastrear al usuario. |
+| [AdBlock - Bloqueador de Publicidad](https://chromewebstore.google.com/detail/adblock-bloqueador-de-pub/annjejmdobkjaneeafkbpipgohafpcom?hl=es) | Extensión popular para bloquear anuncios en sitios web y acelerar la carga de páginas. |
+
+### 🧰 Extensiones varias
+
+| Extensión | Descripción |
+|-----------|-------------|
+| [Volume Master](https://chrome.google.com/webstore/detail/volume-master/aoipfcnfkhfapfegfobpefhkkgfgmdid) | Controla el volumen de cada pestaña de forma independiente. |
+| [Guardar Imagen Como JPG/PNG](https://chromewebstore.google.com/detail/guardar-imagen-como-jpgpn/gabfmnliflodkdafenbcpjdlppllnemd?hl=es) | Permite guardar imágenes directamente como JPG o PNG desde el navegador. |
 
 </details>
 
 <br><br>
 
+
 ---
+
 ## 🛠️ Aplicaciones Útiles  
 Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpio y organizado.
 
@@ -108,6 +127,7 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 | [Everything](https://www.voidtools.com/) | Herramienta de búsqueda ultrarrápida para encontrar archivos y carpetas en tu PC. |
 | [Files](https://files.community/) | Explorador de archivos moderno, ligero y personalizable que mejora la gestión y navegación de tus carpetas. |
 | [Upscayl](https://github.com/upscayl/upscayl) | Aplicación de código abierto que utiliza inteligencia artificial para mejorar la resolución y calidad de imágenes sin perder detalles. |
+| [Rambox](https://rambox.app/) | Plataforma para unificar y gestionar múltiples aplicaciones de mensajería y correo electrónico en una sola ventana. |
 
 ### ⚙️ Automatización y personalización
 
@@ -127,15 +147,10 @@ Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpi
 |------------|-------------|
 | [qBittorrent](https://www.qbittorrent.org/) | Cliente de torrents ligero y sin anuncios, con todas las funciones esenciales. |
 
-### 💬 Comunicación y mensajería
-
-| Aplicación | Descripción |
-|------------|-------------|
-| [Rambox](https://rambox.app/) | Plataforma para unificar y gestionar múltiples aplicaciones de mensajería y correo electrónico en una sola ventana. |
-
 </details>
 
 <br><br>
+
 
 
 
