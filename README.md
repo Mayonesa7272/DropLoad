@@ -87,23 +87,57 @@ Herramientas que potencian la productividad y mejoran la experiencia de navegaci
 <br><br>
 
 ---
-
 ## 🛠️ Aplicaciones Útiles  
 Programas gratuitos para mejorar tu flujo de trabajo y mantener tu sistema limpio y organizado.
 
 <details>
   <summary><strong>🛠️ Ver aplicaciones</strong></summary>
 
+### 🧹 Limpieza y mantenimiento
+
 | Aplicación | Descripción |
 |------------|-------------|
-| [ShareX](https://getsharex.com/) | Captura de pantalla y grabación de video con herramientas avanzadas. |
-| [Everything](https://www.voidtools.com/) | Búsqueda instantánea de archivos en tu sistema Windows. |
-| [BleachBit](https://www.bleachbit.org/) | Limpiador de archivos temporales y basura, alternativa a CCleaner. |
-| [AutoHotkey](https://www.autohotkey.com/) | Automatiza tareas repetitivas con scripts personalizados. |
+| [BCUninstaller](https://www.bcuninstaller.com/) | Desinstalador avanzado que elimina múltiples programas a la vez, incluyendo restos ocultos. Ideal para limpiezas profundas. |
+| [BleachBit](https://www.bleachbit.org/) | Limpia cachés, archivos temporales y basura de tu sistema, liberando espacio y protegiendo la privacidad. |
+
+### 🔍 Productividad y accesos rápidos
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [QuickLook](https://github.com/QL-Win/QuickLook) | Vista previa instantánea de archivos con solo presionar la barra espaciadora (estilo macOS). |
+| [Everything](https://www.voidtools.com/) | Herramienta de búsqueda ultrarrápida para encontrar archivos y carpetas en tu PC. |
+| [Files](https://files.community/) | Explorador de archivos moderno, ligero y personalizable que mejora la gestión y navegación de tus carpetas. |
+| [Upscayl](https://github.com/upscayl/upscayl) | Aplicación de código abierto que utiliza inteligencia artificial para mejorar la resolución y calidad de imágenes sin perder detalles. |
+
+### ⚙️ Automatización y personalización
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [AutoHotkey](https://www.autohotkey.com/) | Lenguaje de scripting para automatizar tareas, crear atajos y macros en Windows. |
+
+### 🔐 Seguridad y gestión de contraseñas
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [Bitwarden](https://bitwarden.com/) | Gestor de contraseñas gratuito, seguro y de código abierto. Disponible para navegador, escritorio y móvil. |
+
+### 📥 Descargas y torrents
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [qBittorrent](https://www.qbittorrent.org/) | Cliente de torrents ligero y sin anuncios, con todas las funciones esenciales. |
+
+### 💬 Comunicación y mensajería
+
+| Aplicación | Descripción |
+|------------|-------------|
+| [Rambox](https://rambox.app/) | Plataforma para unificar y gestionar múltiples aplicaciones de mensajería y correo electrónico en una sola ventana. |
 
 </details>
 
 <br><br>
+
+
 
 
 <p align="center">
