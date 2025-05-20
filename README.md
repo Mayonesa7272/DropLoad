@@ -1,4 +1,4 @@
-# 📥 DropLoad: Descarga Videos y Audios de YouTube con Un Solo Clic
+# 📥 DropLoad: Descarga Videos y Audios de YouTube
 
 **DropLoad** es una aplicación moderna y ligera para Windows que permite descargar videos y audios de YouTube en formato `.mp4` y `.mp3`, sin necesidad de conocimientos técnicos ni instalación de Python.
 
