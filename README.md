@@ -1,46 +1,68 @@
-# 📥 DropLoad
+# 📥 DropLoad: Descarga Videos y Audios de YouTube con Un Solo Clic
 
-DropLoad es una aplicación ligera y moderna para descargar videos y audios desde YouTube, diseñada para ser fácil de usar, rápida y funcional sin necesidad de instalar Python ni configurar herramientas adicionales.
+**DropLoad** es una aplicación moderna y ligera para Windows que permite descargar videos y audios de YouTube en formato `.mp4` y `.mp3`, sin necesidad de conocimientos técnicos ni instalación de Python.
 
-## 🧩 Características principales
+---
 
-- Descarga videos en formato `.mp4` con calidad hasta 1080p.
-- Descarga solo audio en formato `.mp3`, ideal para música o podcasts.
-- Conversión automática de formatos usando ffmpeg, que se descarga automáticamente en la primera ejecución.
-- Interfaz gráfica intuitiva, creada con Tkinter, con soporte para modo claro, oscuro y modo sistema.
-- Personalización visual: cambia el tamaño de la letra y el color del botón de descarga con botones integrados.
-- Progreso de descarga en tiempo real: muestra porcentaje, tamaño, velocidad y tiempo restante.
-- Ejecutable independiente para Windows 7, 10 y 11, sin necesidad de instalar Python.
-- Configuración simple de la carpeta destino para las descargas.
+## 🚀 ¿Qué hace DropLoad?
 
-## 📝 Descripción detallada
+DropLoad facilita la descarga rápida y directa de contenido multimedia desde YouTube, con opciones personalizables y una interfaz amigable.
 
-DropLoad facilita la descarga de contenido multimedia de YouTube directamente a tu equipo con un solo clic. Gracias a la integración de Pytube, gestiona eficientemente la extracción y descarga de videos y audios. La conversión automática mediante ffmpeg garantiza que el contenido descargado esté en el formato deseado sin complicaciones.
+Con DropLoad puedes:
 
-La aplicación está pensada para usuarios de todos los niveles, con una interfaz sencilla y amigable. Puedes cambiar fácilmente el tamaño de la fuente para mejorar la legibilidad, y modificar el color del botón principal para adaptar la apariencia a tu gusto o necesidades visuales.
+- Descargar **videos** en formato `.mp4` con calidad de hasta **1080p**.
+- Descargar **solo audio** en formato `.mp3`, ideal para música y podcasts.
+- Realizar **conversión automática** mediante ffmpeg (se descarga la primera vez).
+- Ver el **progreso de descarga en tiempo real**: porcentaje, tamaño, velocidad y tiempo restante.
+- Cambiar **el tamaño de letra** de la interfaz.
+- Cambiar el **color del botón de descarga** para personalizar la apariencia.
 
-El progreso de cada descarga es visible en tiempo real, proporcionando información detallada para que siempre sepas cómo va el proceso. Además, la descarga inicial de ffmpeg se realiza automáticamente, evitando que tengas que preocuparte por configuraciones técnicas.
+---
 
-Al ser un archivo ejecutable (`.exe`), DropLoad elimina la barrera de la instalación de entornos de desarrollo o librerías, funcionando de forma autónoma en la mayoría de PCs con Windows. Esto la convierte en una herramienta accesible y rápida de desplegar.
+## 🔧 Funcionalidades de DropLoad
 
-💡 *Nota: Durante la primera ejecución o cuando se detecte una nueva versión de ffmpeg, el programa descargará automáticamente la herramienta. Esto puede tardar unos segundos, pero solo ocurre una vez. Las ejecuciones siguientes serán más rápidas. (Trabajando en soluciones)*
+- **Interfaz intuitiva** desarrollada con **Tkinter**.
+- **Modo claro, oscuro y sistema** disponibles.
+- Botones para ajustar la **visualización y accesibilidad** de la interfaz.
+- Permite cambiar la carpeta donde se guardan las descargas.
+- Ejecutable `.exe` para Windows que **no requiere instalación de Python**.
+
+---
+
+## ⚙️ Características Técnicas
+
+- **Lenguaje de programación**: Python 3.10+
+- **Librerías utilizadas**:
+  - `pytube` para descargar contenido desde YouTube
+  - `ffmpeg` para convertir archivos multimedia
+  - `tkinter` para la interfaz gráfica
+- **Sistema operativo**: Compatible con **Windows 7, 10 y 11**
+- **Empaquetado con**: `auto-py-to-exe` para generar un `.exe` independiente
+
+---
+
+## 💡 Nota Importante
+
+Durante la **primera ejecución** o cuando se detecte una nueva versión de `ffmpeg`, el programa descargará automáticamente la herramienta.  
+Esto puede tardar unos segundos, pero solo ocurre una vez.  
+Las ejecuciones siguientes serán más rápidas. *(Estamos trabajando en soluciones para mejorar esta parte.)*
+
+---
 
 ## 🛠️ Instalación
 
-1. Descarga el archivo `DropLoad.exe` desde la sección de lanzamientos.
-2. Ejecuta el archivo; no requiere instalación ni configuración adicional.
-3. En la primera ejecución, DropLoad descargará automáticamente ffmpeg si no está presente.
-4. ¡Comienza a descargar tus videos y audios favoritos!
+1. Descarga el archivo `DropLoad.exe` desde la sección de lanzamientos en GitHub.
+2. Ejecuta el archivo directamente, **sin necesidad de instalar ni configurar nada**.
+3. En la primera ejecución, ffmpeg se descargará automáticamente si no está disponible.
+4. ¡Listo! Ya puedes empezar a descargar videos o audios de YouTube.
 
-## 📦 Tecnologías usadas
+---
 
-- Python 3.10+ para el desarrollo.
-- Pytube para descarga de contenido de YouTube.
-- ffmpeg para conversión y procesamiento de archivos multimedia.
-- Tkinter para la interfaz gráfica.
-- auto-py-to-exe para empaquetar el proyecto en un archivo `.exe`.
+## 🧑‍💻 Contacto y Soporte
 
-## 📞 Contacto
-
-- GitHub: [https://github.com/Mayonesa7272](https://github.com/Mayonesa7272)  
+- GitHub: [https://github.com/Mayonesa7272](https://github.com/Mayonesa7272)
 - Email: [mayonesaa72@gmail.com](mailto:mayonesaa72@gmail.com)
+
+---
+
+¿Quieres que también te genere este archivo `.md`, el `setup.py`, `requirements.txt` o el archivo de configuración para `auto-py-to-exe`? Puedo ayudarte con eso también.
